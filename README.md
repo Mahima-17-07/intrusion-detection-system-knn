@@ -8,7 +8,10 @@ This mini project uses the K-Nearest Neighbors (KNN) algorithm to classify netwo
 - Majority Voting
 
 ## Dataset
-Network Intrusion Detection Dataset (Kaggle)
+The dataset used for this project is taken from Kaggle:
+
+Network Intrusion Detection Dataset  
+https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection
 
 ## Tools
 - Python
@@ -17,3 +20,4 @@ Network Intrusion Detection Dataset (Kaggle)
 
 ## Note
 This project was developed as part of an academic mini project.
+
